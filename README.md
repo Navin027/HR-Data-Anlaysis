@@ -107,3 +107,7 @@ Offer-to-Join Conversion % is calculated as a ratio and formatted as a percentag
 **Final Note**
 
 This project reflects an analytical approach focused on clarity, structured thinking, and actionable insights.
+
+**Dashboard Preview**
+
+![Dashboard Page.png](https://github.com/Navin027/HR-Data-Anlaysis/blob/cd93c16de1f27d2f56bf5b68bf74c0f4ac3e3dcd/Dashboard%20Page.png)
